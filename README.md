@@ -16,7 +16,7 @@
 | Pinneapple on pizza  ?   |     ![alt text](pinneapple%20.png)     |
 
 
-####Hobbies
+#### Hobbies
 
 * Lyrical singing
 * Movies 	:movie_camera:
@@ -28,7 +28,7 @@
 * Skyrim :video_game:
 * DIY
 
-####You can always count on me when you need a hug <3 or just help.
+#### You can always count on me when you need a hug <3 or just help.
 
 
 #### The old spooky and scary house of my friends 
