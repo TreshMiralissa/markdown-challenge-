@@ -3,7 +3,7 @@
 ## Jade
 
 *And, above all, keep your eyes open to the whole world, because the greatest secrets are always found in the most unexpected places. Those who do not believe in magic will never know them.*
-================================= *The Minpins* by Roald Dahl ==
+=== *The Minpins* by Roald Dahl ===
 
 ![alt text](IMG_3099.JPG)
 
