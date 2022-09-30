@@ -9,8 +9,9 @@
 
 ### Wanted to go to Middle-earth, got the wrong portal.
 
-| Birthday     |     April 1st   |
+| Q    |     A  |
 | :------------ | :-------------: |
+| Birthday      |     April 1st     |
 | Favorite color       |     Green    |
 | Favorite food     |   Gnocchis    |
 | Pinneapple on pizza  ?   |     ![alt text](pinneapple%20.png)     |
