@@ -28,7 +28,7 @@
 * Skyrim :video_game:
 * DIY
 
-#### You can always count on me when you need a hug :red_heart: or just help.
+#### You can always count on me when you need a hug or just help. 	:red_heart:
 
 
 #### The old spooky and scary house of my friends 
